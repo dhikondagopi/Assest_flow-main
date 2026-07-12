@@ -129,16 +129,6 @@ npm run dev
 
 ---
 
-## Contributors
-
-**Dhikonda Gopi**
-
-GitHub
-
-https://github.com/dhikondagopi
-
----
-
 ## License
 
 This project is developed for educational and hackathon purposes.
