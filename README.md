@@ -97,24 +97,6 @@ Built for the Odoo Hackathon.
 
 ---
 
-## Project Structure
-
-```
-src/
- ├── routes/
- ├── components/
- ├── hooks/
- ├── constants/
- ├── integrations/
- ├── lib/
- └── styles/
-
-supabase/
- ├── migrations/
- └── seed.sql
-```
-
----
 
 ## Installation
 
@@ -142,45 +124,6 @@ Start development server
 npm run dev
 ```
 
----
-
-## Environment Variables
-
-Create a `.env` file
-
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_anon_key
-```
-
----
-
-## Database
-
-Apply all SQL migrations inside
-
-```
-supabase/migrations/
-```
-
-Then start the application.
-
----
-
-## Screens
-
-- Dashboard
-- Organization Setup
-- Assets
-- Allocation & Transfer
-- Resource Booking
-- Maintenance
-- Audit
-- Reports
-- Notifications
-- Activity Log
-
----
 
 ## Future Improvements
 
