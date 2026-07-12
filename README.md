@@ -88,15 +88,6 @@ Built for the Odoo Hackathon.
 - shadcn/ui
 - Recharts
 
-### Backend
-
-- Supabase
-- PostgreSQL
-- Row Level Security (RLS)
-- SQL Migrations
-
----
-
 
 ## Installation
 
