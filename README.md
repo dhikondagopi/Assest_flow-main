@@ -5,6 +5,9 @@ AssetFlow Enterprise ERP is a modern enterprise asset management system built fo
 Built for the Odoo Hackathon.
 
 ---
+Demo Video
+https://drive.google.com/drive/folders/1-9kVUknTzlrcKxYGRDijIDV6MasGEMcY?usp=sharing
+---
 
 ## Features
 
